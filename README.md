@@ -20,9 +20,6 @@
 ## ☁️ Cloud Platforms
 
 - AWS  
-- Azure (Learning)  
-- Google Cloud (Learning)
-
 ---
 
 ## ⚙️ DevOps Tools
