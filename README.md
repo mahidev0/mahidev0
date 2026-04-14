@@ -2,7 +2,7 @@
 <h3 align="center">DevOps Engineer | Multi-Cloud | GenAI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AWS+DevOps+Engineer;Multi+Cloud+Engineer;Terraform+%7C+Kubernetes+%7C+Docker;Learning+GenAI+Automation&center=true&width=500&height=45">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AWS+DevOps+Engineer;Multi+Cloud+Engineer;Terraform+%7C+Docker;Learning+GenAI+Automation&center=true&width=500&height=45">
 </p>
 
 ---
